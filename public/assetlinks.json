@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.hierro_gratis_r2o12av8n_xz_productionz.twa",
+        "sha256_cert_fingerprints": ["7C:1E:D3:31:8F:91:69:47:39:F0:C7:CA:A0:F4:88:1F:7B:73:15:A3:7C:B4:4F:53:0C:B6:BE:DD:A9:7D:F8:9E"]
+      }
+    }]
